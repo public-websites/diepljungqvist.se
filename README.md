@@ -2,4 +2,5 @@
 diepljungqvist.se
 
 
-gott nytt år, tack för igår. det var himla trevligt!!
+Hej! Tack för att vi får komma och äta mat hos er i kväll! 
+/ MVH Shapiro <3 (:
