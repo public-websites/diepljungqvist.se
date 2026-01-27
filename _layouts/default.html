@@ -1,40 +1,38 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
-  <head>
+<html lang="{{ site.lang | default: " en-US" }}">
+<head>
     <meta charset="UTF-8">
 
-{% seo %}
+    {% seo %}
     <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style" type="text/css" crossorigin>
+    <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style"
+          type="text/css" crossorigin>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    
+
     <link rel="stylesheet" href="/custom.css">
     {% include head-custom.html %}
-  </head>
-  <body>
-    <a id="skip-to-content" href="#content">Skip to the content.</a>
+</head>
+<body>
+<a id="skip-to-content" href="#content">Skip to the content.</a>
 
-    <header class="page-header" role="banner" style="background-image: url('/header.png'); color: black;">
-      <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
-      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-      {% if site.github.is_project_page %}
-        <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
-      {% endif %}
-      {% if site.show_downloads %}
-        <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
-        <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
-      {% endif %}
-      <a href="/" class="btn">Start</a>
-      <a href="/foo" class="btn">Foo</a>
-      <a href="/bar" class="btn">Bar</a>
-      <a href="/baz" class="btn">Baz</a>
-    </header>
+<header class="page-header" role="banner" style="background-image: url('/images/header.png'); color: black;">
+    <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+    <h2 class="project-tagline">Emelie & Rasmus</h2>
+    <h2 class="project-tagline">2026.08.01</h2>
 
-    <main id="content" class="main-content" role="main">
-      {{ content }}
-    </main>
-  </body>
+    <a href="/" class="btn">Start</a>
+    <a href="/our_history" class="btn">Vår historia</a>
+    <a href="/weddingday" class="btn">Bröllopsdagen</a>
+    <a href="/qna" class="btn">Frågor och svar</a>
+    <a href="/rsvp_and_contact" class="btn">O.S.A och kontakt</a>
+    <a href="/other_info" class="btn">Övrig information</a>
+</header>
+
+<main id="content" class="main-content" role="main">
+    {{ content }}
+</main>
+</body>
 </html>
