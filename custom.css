@@ -2,3 +2,12 @@
   color: black;
   border-color: black;
 }
+
+h1, h2, h3, h4, h5, h6 {
+  color: black;
+}
+
+.project-name {
+  color: black;
+  font-family: "Corinthia", cursive;
+}

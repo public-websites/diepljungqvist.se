@@ -12,13 +12,17 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
 
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Corinthia:wght@400;700&display=swap" rel="stylesheet">
+
     <link rel="stylesheet" href="/custom.css">
     {% include head-custom.html %}
 </head>
 <body>
 <a id="skip-to-content" href="#content">Skip to the content.</a>
 
-<header class="page-header" role="banner" style="background-image: url('/images/header.png'); color: black;">
+<header class="page-header" role="banner" style="background-image: url('/images/header.png'); color: black; background-color: white; background-size: cover;">
     <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
     <h2 class="project-tagline">Emelie & Rasmus</h2>
     <h2 class="project-tagline">2026.08.01</h2>
