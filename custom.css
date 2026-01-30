@@ -8,7 +8,11 @@
   color: black;
 }
 
-.project-name {
-  color: black;
+.page-header .project-name {
+  color: white;
   font-family: "Corinthia", cursive;
+}
+.page-header .project-tagline {
+  color: white;
+  font-family: sans-serif;
 }
