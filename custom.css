@@ -12,18 +12,18 @@
 }
 
 .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
-    font-family: "Corinthia", cursive;
+    font-family: "Pinyon Script", cursive;
     color: black;
 }
 
-.page-header .project-name {
+.project-name {
     color: white;
-    font-family: "Corinthia", cursive;
+    font-family: "Pinyon Script", cursive;
     font-size: 3rem;
 }
 
-.page-header .project-tagline {
+.project-tagline {
     color: white;
-    font-family: sans-serif;
+    font-family: "Quattrocento", cursive;
     margin-bottom: 1em;
 }
