@@ -1,3 +1,7 @@
+---
+title: Vår historia
+---
+
 Vi började studera på Malmö högskola hösten 2009 – på olika utbildningar och utan att känna varandra. Hösten 2010 fördes våra program samman i en gemensam kurs. En dag klev Emelie in i en datorsal där Rasmus satt. Kort därefter träffades vi på en fest på en nation i Lund, inför en planerad studieresa till Barcelona.
 
 Rasmus bjöd Emelie på fika, och inte långt därefter reste vi till Barcelona.

@@ -1,3 +1,7 @@
+---
+title: Bröllopsdagen
+---
+
 Vigseln startar 14:00 i Ods kyrka, var gärna på plats 13:30.
 
 Efter vigseln återsamlas alla på Ollestad gård för att välkomna brudparet med brudskål. 

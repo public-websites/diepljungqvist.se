@@ -1,3 +1,7 @@
+---
+title: Frågor och svar
+---
+
 Fråga: Får man fotografera under vigseln?
 
 Svar: Vi önskar en mobilfri ceremoni och ber er därför att inte fotografera eller filma under vigseln i kyrkan. En fotograf finns på plats och fångar stunden.

@@ -1,3 +1,7 @@
+---
+title: O.S.A och kontakt
+---
+
 Vi hoppas ni kan komma och fira dagen med oss!
 
 Vänligen svara senast 1 maj 2026 till [osa@diepljungqvist.se](mailto:osa@diepljungqvist.se)
