@@ -24,8 +24,7 @@ ___
 
 Fråga: Jag vill hålla ett tal, vem kontaktar jag?
 
-Svar: Kontakta vår toastmadame Gabrielle Persson email
-
+Svar: Kontakta vår toastmadame Gabrielle Persson [0707 23 35 77](tel:+46707233577)
 ___
 
 Fråga: Vart finns parkering?
@@ -44,4 +43,4 @@ ___
 Fråga: Vad finns det för transportalternativ?
 
 Svar: De går att åka kollektivt till Od från Herrljunga eller Ulricehamn, sedan en kort promenad från hållplatsen till kyrkan. Behöver man transport mellan kyrkan och Ollestad Gård kontakta Emelie eller Rasmus.
-Det går att boka transport från Ollestad Gård 01:30 till Herrljunga via Västtrafik. Detta bokar man tidigast 14 dagar innan avresa hos Västtrafik 0771-91 90 90. Mer info: Herrljunga | Västtrafik.
+Det går att boka transport från Ollestad Gård 01:30 till Herrljunga via Västtrafik. Detta bokar man tidigast 14 dagar innan avresa hos Västtrafik 0771-91 90 90. Mer info: [Herrljunga | Västtrafik](https://www.vasttrafik.se/reseplanering/anropsstyrd-trafik/nartrafik/herrljunga/#s).
