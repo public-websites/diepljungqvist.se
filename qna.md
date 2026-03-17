@@ -18,13 +18,14 @@ ___
 
 Fråga: Vad önskar ni er?
 
-Svar: Er närvaro är det viktigaste för oss. Skulle ni ändå vilja ge en gåva uppskattar vi ett bidrag till vår bröllopsresa eller till framtida husrenovering.
+Svar: Er närvaro är det viktigaste för oss. Skulle ni ändå vilja ge en gåva uppskattar vi ett bidrag till vår bröllopsresa.
 
 ___
 
 Fråga: Jag vill hålla ett tal, vem kontaktar jag?
 
 Svar: Kontakta vår toastmadame Gabrielle Persson [0707 23 35 77](tel:+46707233577)
+
 ___
 
 Fråga: Vart finns parkering?
